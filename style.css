@@ -1,0 +1,75 @@
+p, h1, h2
+{
+    text-align: center;
+}
+
+.Ordinateur  
+{
+	position:relative;
+	background-image: url("C:\Users\gtcha\OneDrive\Bureau\site_internet\image\ordinateur_haut_de_page.jpg");
+	background-position:top;
+	background-repeat:no-repeat;
+	}
+	
+.ImageGif  
+{
+	position:absolute;
+	background-image: url("C:\Users\gtcha\OneDrive\Bureau\site_internet\image\bonjour.gif");
+	background-position: absolute; 
+	margin-top:-150px;
+	margin-left: 30%;
+	}
+
+	.photocv
+	{
+	
+		position: absolute;
+		  width: 350px;
+		  height: 380px;
+		  line-height: 200px;
+		}
+	.photocv img
+		{
+		max-height: 100%;
+		max-width: 100%;
+		
+	}
+	
+
+footer
+{
+	background-color: rgb(255, 253, 253);
+	color: rgb(0, 0, 0);
+}
+
+li
+{
+	list-style-type: none;
+	text-align: center;
+}
+
+label 
+{
+    padding-right: 10px;
+    font-size: 1rem;
+}
+
+
+.Parcours
+{
+
+	text-align: center;
+	
+}
+
+
+	
+.langue
+	{
+		text-align: center;
+	}
+
+.footer
+{
+	text-align: center;
+}
