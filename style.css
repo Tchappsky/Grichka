@@ -1,4 +1,4 @@
-p, h1, h2
+p, h1, h2 
 {
     text-align: center;
 }
@@ -16,23 +16,23 @@ p, h1, h2
 	position:absolute;
 	background-image: url("C:\Users\gtcha\OneDrive\Bureau\site_internet\image\bonjour.gif");
 	background-position: absolute; 
-	margin-top:-150px;
+	margin-top:-700px;
 	margin-left: 30%;
 	}
 
-	.photocv
-	{
+.photocv
+{
 	
-		position: left;
-		  width: 350px;
-		  height: 380px;
-		  line-height: 200px;
-		}
-	.photocv img
-		{
-		max-height: 100%;
-		max-width: 100%;
-		
+	position: left;
+	width: 350px;
+	height: 380px;
+	line-height: 200px;
+	}
+
+.photocv img
+{
+	max-height: 100%;
+	max-width: 100%;	
 	}
 	
 
